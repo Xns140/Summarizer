@@ -1,0 +1,14 @@
+beautifulsoup4
+textract
+flask-uploads
+bs4
+Flask
+nltk
+spacy
+sumy
+thinc
+Werkzeug==0.16.1
+urllib3
+gensim   
+gensim-sum-ext
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.2.5/en_core_web_lg-2.2.5.tar.gz
