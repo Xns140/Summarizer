@@ -72,7 +72,7 @@ pytesseract==0.3.4
 python-dateutil==2.8.1
 python-pptx==0.6.18
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 redis==3.5.2
 regex==2020.5.14
 requests==2.23.0
