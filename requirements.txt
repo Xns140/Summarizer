@@ -76,7 +76,7 @@ PyYAML==5.3.1
 redis==3.5.2
 regex==2020.5.14
 requests==2.23.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.3.3
 scipy==1.4.1
 selenium==3.141.0
